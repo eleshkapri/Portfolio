@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="skyDuoc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="60%" stop-color="#bae6fd"/>
+      <stop offset="100%" stop-color="#86efac"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#skyDuoc)"/>
+  <!-- Trees -->
+  <circle cx="60" cy="180" r="50" fill="#16a34a" opacity="0.6"/>
+  <circle cx="340" cy="180" r="55" fill="#15803d" opacity="0.6"/>
+  <rect y="210" width="400" height="90" fill="#4ade80"/>
+  <!-- Colored Ribbons in Air -->
+  <path d="M80 180 Q100 40 120 20" stroke="#f43f5e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M140 190 Q150 50 170 30" stroke="#0ea5e9" stroke-width="8" stroke-linecap="round"/>
+  <path d="M200 190 Q210 30 230 15" stroke="#eab308" stroke-width="9" stroke-linecap="round"/>
+  <path d="M260 190 Q270 45 285 25" stroke="#a855f7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M310 190 Q325 60 340 40" stroke="#ec4899" stroke-width="8" stroke-linecap="round"/>
+  <!-- Crowd of Design Students -->
+  <g transform="translate(40, 150)">
+    <!-- Student bodies -->
+    <circle cx="80" cy="40" r="14" fill="#fed7aa"/>
+    <rect x="68" y="55" width="24" height="40" rx="6" fill="#3b82f6"/>
+    
+    <circle cx="120" cy="35" r="14" fill="#fcd34d"/>
+    <rect x="108" y="50" width="24" height="45" rx="6" fill="#ec4899"/>
+    
+    <!-- Henry (with glasses and green hoodie) -->
+    <circle cx="160" cy="30" r="16" fill="#fcd5b5"/>
+    <rect x="144" y="47" width="32" height="48" rx="8" fill="#10b981"/>
+    <!-- Glasses -->
+    <rect x="149" y="27" width="10" height="7" rx="2" fill="none" stroke="#111" stroke-width="2"/>
+    <rect x="162" y="27" width="10" height="7" rx="2" fill="none" stroke="#111" stroke-width="2"/>
+    <!-- Arms raised in celebration -->
+    <path d="M144 55 Q130 35 125 20" stroke="#10b981" stroke-width="7" stroke-linecap="round"/>
+    <path d="M176 55 Q190 35 195 20" stroke="#10b981" stroke-width="7" stroke-linecap="round"/>
+
+    <circle cx="200" cy="35" r="14" fill="#fbcfe8"/>
+    <rect x="188" y="50" width="24" height="45" rx="6" fill="#8b5cf6"/>
+
+    <circle cx="240" cy="40" r="14" fill="#fed7aa"/>
+    <rect x="228" y="55" width="24" height="40" rx="6" fill="#f97316"/>
+  </g>
+</svg>

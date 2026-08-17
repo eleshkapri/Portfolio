@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#1e293b"/>
+  <!-- Office desks & lights -->
+  <rect x="30" y="40" width="340" height="20" rx="4" fill="#334155"/>
+  <line x1="100" y1="40" x2="100" y2="0" stroke="#64748b" stroke-width="2"/>
+  <line x1="300" y1="40" x2="300" y2="0" stroke="#64748b" stroke-width="2"/>
+  <!-- Monitors -->
+  <rect x="70" y="130" width="70" height="50" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M80 145 L130 145 M80 155 L110 155" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="250" y="125" width="80" height="55" rx="4" fill="#0f172a" stroke="#a855f7" stroke-width="2"/>
+  <rect x="20" y="180" width="360" height="90" fill="#475569"/>
+  <!-- Team group smiling -->
+  <g transform="translate(100, 80)">
+    <circle cx="40" cy="40" r="16" fill="#fed7aa"/>
+    <rect x="24" y="58" width="32" height="45" rx="6" fill="#0284c7"/>
+    <circle cx="100" cy="35" r="18" fill="#fcd5b5"/>
+    <rect x="80" y="55" width="40" height="48" rx="8" fill="#0d9488"/>
+    <!-- Glasses -->
+    <rect x="88" y="32" width="10" height="7" rx="2" fill="none" stroke="#000" stroke-width="2"/>
+    <rect x="102" y="32" width="10" height="7" rx="2" fill="none" stroke="#000" stroke-width="2"/>
+    <circle cx="160" cy="40" r="16" fill="#fbcfe8"/>
+    <rect x="144" y="58" width="32" height="45" rx="6" fill="#e11d48"/>
+  </g>
+</svg>

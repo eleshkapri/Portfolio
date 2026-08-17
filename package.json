@@ -1,14 +1,12 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Henry Designer Portfolio",
   "scripts": {
-    "start": "parcel ./*.html ",
-    "build": "parcel build ./*.html  --dist-dir ./build"
+    "dev": "node server.js",
+    "serve": "node server.js",
+    "start": "node server.js"
   },
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.7.0"
-  }
+  "license": "ISC"
 }

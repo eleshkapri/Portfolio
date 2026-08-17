@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <path d="M60 40 L80 40 Q100 55 120 40 L140 40 L175 75 L150 95 L135 80 L135 170 L65 170 L65 80 L50 95 L25 75 Z" fill="#f8fafc" stroke="#cbd5e1" stroke-width="3"/>
+  <!-- Psycho Flower Graphic -->
+  <circle cx="100" cy="105" r="26" fill="#facc15"/>
+  <circle cx="100" cy="105" r="14" fill="#a855f7"/>
+  <circle cx="100" cy="74" r="9" fill="#4ade80"/>
+  <circle cx="100" cy="136" r="9" fill="#4ade80"/>
+  <circle cx="69" cy="105" r="9" fill="#4ade80"/>
+  <circle cx="131" cy="105" r="9" fill="#4ade80"/>
+  <text x="100" y="109" text-anchor="middle" fill="#ffffff" font-family="'Space Mono', monospace" font-size="8" font-weight="bold">PSYCHO</text>
+</svg>

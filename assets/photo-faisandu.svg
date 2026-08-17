@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#2d1b4e"/>
+  <!-- Background posters on wall -->
+  <rect x="40" y="30" width="70" height="90" rx="2" fill="#a855f7" opacity="0.6"/>
+  <rect x="290" y="30" width="70" height="95" rx="2" fill="#06b6d4" opacity="0.6"/>
+  <!-- Henry selfie with cap -->
+  <circle cx="200" cy="140" r="42" fill="#fcd5b5"/>
+  <!-- Cap (Magenta/Violet Snapback) -->
+  <path d="M150 125 C150 90, 250 90, 250 125 Z" fill="#ec4899"/>
+  <path d="M140 125 Q200 115 265 120 Q240 132 150 132 Z" fill="#db2777"/>
+  <!-- Glasses -->
+  <rect x="175" y="130" width="20" height="15" rx="4" fill="none" stroke="#111" stroke-width="3"/>
+  <rect x="205" y="130" width="20" height="15" rx="4" fill="none" stroke="#111" stroke-width="3"/>
+  <line x1="195" y1="137" x2="205" y2="137" stroke="#111" stroke-width="3"/>
+  <!-- Smile -->
+  <path d="M188 162 Q200 172 212 162" stroke="#b91c1c" stroke-width="3" stroke-linecap="round"/>
+  <!-- Purple Hoodie -->
+  <path d="M130 185 C130 170, 160 175, 200 175 C240 175, 270 170, 270 185 L280 270 L120 270 Z" fill="#7c3aed"/>
+</svg>

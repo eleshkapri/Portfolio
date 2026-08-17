@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" fill="none">
+  <!-- Open Large Notebook Canvas -->
+  <rect x="15" y="15" width="390" height="350" rx="12" fill="#fafafa" stroke="#e5e5e5" stroke-width="2"/>
+  <!-- Center Book Spine fold -->
+  <line x1="210" y1="15" x2="210" y2="365" stroke="#d4d4d4" stroke-width="3"/>
+
+  <!-- Left Page: Wireframes & Metrics Charts -->
+  <rect x="35" y="45" width="155" height="110" rx="6" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M45 120 Q70 80 100 95 T150 65 T180 75" fill="none" stroke="#0ea5e9" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="100" cy="95" r="4" fill="#0ea5e9"/>
+  <circle cx="150" cy="65" r="4" fill="#0ea5e9"/>
+  <text x="45" y="65" fill="#64748b" font-family="'Space Mono', monospace" font-size="9" font-weight="bold">ONLINE SALES</text>
+
+  <!-- Right Page: Interactive UI Elements -->
+  <!-- Wireframe Card 1 -->
+  <rect x="230" y="45" width="155" height="70" rx="6" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <circle cx="250" cy="70" r="12" fill="#e2e8f0"/>
+  <line x1="270" y1="65" x2="360" y2="65" stroke="#94a3b8" stroke-width="3"/>
+  <line x1="270" y1="75" x2="330" y2="75" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Switch UI Component -->
+  <g transform="translate(145, 235)">
+    <rect x="0" y="0" width="46" height="24" rx="12" fill="#22c55e"/>
+    <circle cx="34" cy="12" r="9" fill="#ffffff"/>
+  </g>
+
+  <!-- Primary Button Component -->
+  <g transform="translate(90, 275)">
+    <rect x="0" y="0" width="110" height="34" rx="8" fill="#0284c7"/>
+    <text x="55" y="22" text-anchor="middle" fill="#ffffff" font-family="'DM Sans', sans-serif" font-weight="bold" font-size="14">Button</text>
+  </g>
+
+  <!-- Floating Sticky Notes on Sketchbook -->
+  <g transform="translate(30, 175) rotate(-6)">
+    <rect x="0" y="0" width="55" height="50" rx="3" fill="#fef08a" stroke="#fde047"/>
+    <text x="8" y="22" fill="#713f12" font-family="'Caveat', cursive" font-size="12" font-weight="bold">Online</text>
+    <text x="8" y="38" fill="#713f12" font-family="'Caveat', cursive" font-size="12" font-weight="bold">Sales</text>
+  </g>
+
+  <g transform="translate(330, 60) rotate(8)">
+    <rect x="0" y="0" width="60" height="50" rx="3" fill="#86efac" stroke="#4ade80"/>
+    <text x="8" y="20" fill="#14532d" font-family="'Caveat', cursive" font-size="11" font-weight="bold">Design</text>
+    <text x="8" y="34" fill="#14532d" font-family="'Caveat', cursive" font-size="11" font-weight="bold">System</text>
+  </g>
+
+  <g transform="translate(340, 160) rotate(-5)">
+    <rect x="0" y="0" width="62" height="50" rx="3" fill="#fbcfe8" stroke="#f472b6"/>
+    <text x="8" y="22" fill="#831843" font-family="'Caveat', cursive" font-size="11" font-weight="bold">Figma</text>
+    <text x="8" y="36" fill="#831843" font-family="'Caveat', cursive" font-size="11" font-weight="bold">Tokens</text>
+  </g>
+</svg>

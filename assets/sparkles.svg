@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" fill="none">
+  <!-- Large Star -->
+  <path d="M35 5 L39 20 L54 24 L39 28 L35 43 L31 28 L16 24 L31 20 Z" fill="#ffd32a"/>
+  <!-- Small Star -->
+  <path d="M12 35 L14 43 L22 45 L14 47 L12 55 L10 47 L2 45 L10 43 Z" fill="#ffd32a" opacity="0.85"/>
+</svg>

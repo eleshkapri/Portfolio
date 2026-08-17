@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 400" fill="none">
+  <defs>
+    <linearGradient id="skyChile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="60%" stop-color="#bae6fd"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="340" height="400" fill="url(#skyChile)"/>
+  <!-- Mountain peaks -->
+  <polygon points="40,160 120,70 190,160" fill="#475569"/>
+  <polygon points="120,70 140,95 105,95" fill="#f8fafc"/>
+  <polygon points="150,170 230,60 310,170" fill="#334155"/>
+  <polygon points="230,60 250,85 210,85" fill="#f8fafc"/>
+  <!-- Ancient native rainforest trees -->
+  <circle cx="50" cy="180" r="45" fill="#15803d"/>
+  <circle cx="120" cy="175" r="50" fill="#166534"/>
+  <circle cx="200" cy="180" r="48" fill="#15803d"/>
+  <circle cx="280" cy="175" r="55" fill="#14532d"/>
+  <!-- Lake Reflection & Water -->
+  <rect y="210" width="340" height="190" fill="#0284c7"/>
+  <ellipse cx="170" cy="240" rx="140" ry="15" fill="#0369a1" opacity="0.5"/>
+  <ellipse cx="170" cy="300" rx="160" ry="20" fill="#075985" opacity="0.6"/>
+</svg>

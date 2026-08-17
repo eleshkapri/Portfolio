@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+  <circle cx="80" cy="80" r="76" fill="#78350f"/>
+  <!-- Ears -->
+  <polygon points="35,60 50,20 70,50" fill="#92400e"/>
+  <polygon points="40,55 50,28 64,48" fill="#f472b6"/>
+  <polygon points="125,60 110,20 90,50" fill="#92400e"/>
+  <polygon points="120,55 110,28 96,48" fill="#f472b6"/>
+  <!-- Tabby Stripes -->
+  <circle cx="80" cy="88" r="48" fill="#b45309"/>
+  <line x1="80" y1="46" x2="80" y2="65" stroke="#451a03" stroke-width="4"/>
+  <line x1="68" y1="52" x2="72" y2="68" stroke="#451a03" stroke-width="3"/>
+  <line x1="92" y1="52" x2="88" y2="68" stroke="#451a03" stroke-width="3"/>
+  <!-- Eyes -->
+  <ellipse cx="62" cy="82" rx="9" ry="12" fill="#fbbf24"/>
+  <ellipse cx="98" cy="82" rx="9" ry="12" fill="#fbbf24"/>
+  <ellipse cx="62" cy="82" rx="4" ry="10" fill="#111827"/>
+  <ellipse cx="98" cy="82" rx="4" ry="10" fill="#111827"/>
+  <!-- Nose & Whiskers -->
+  <polygon points="76,104 84,104 80,109" fill="#f472b6"/>
+  <line x1="40" y1="106" x2="68" y2="106" stroke="#fde68a" stroke-width="2"/>
+  <line x1="120" y1="106" x2="92" y2="106" stroke="#fde68a" stroke-width="2"/>
+</svg>

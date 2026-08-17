@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 90" fill="none">
+  <path d="M10 65 C20 45, 50 35, 75 35 C90 35, 115 45, 145 50 C155 52, 155 70, 140 70 L10 70 Z" fill="#dc2626"/>
+  <!-- Puma Stripe (White) -->
+  <path d="M35 55 Q75 45 140 60 Q85 58 45 65 Z" fill="#ffffff"/>
+  <!-- Sole -->
+  <rect x="8" y="68" width="144" height="12" rx="3" fill="#f8fafc" stroke="#e2e8f0"/>
+  <!-- Laces -->
+  <line x1="60" y1="38" x2="72" y2="48" stroke="#fff" stroke-width="2.5"/>
+  <line x1="68" y1="36" x2="80" y2="46" stroke="#fff" stroke-width="2.5"/>
+</svg>

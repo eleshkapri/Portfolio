@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- T-shirt Body -->
+  <path d="M60 40 L80 40 Q100 55 120 40 L140 40 L175 75 L150 95 L135 80 L135 170 L65 170 L65 80 L50 95 L25 75 Z" fill="#1c1917" stroke="#44403c" stroke-width="3"/>
+  <!-- Graphic print -->
+  <circle cx="100" cy="105" r="32" fill="#15803d" opacity="0.3"/>
+  <path d="M100 80 C86 80, 78 95, 84 112 C90 126, 100 132, 100 132 C100 132, 110 126, 116 112 C122 95, 114 80, 100 80 Z" fill="#22c55e"/>
+  <!-- Alien Eyes -->
+  <ellipse cx="91" cy="102" rx="6" ry="10" transform="rotate(-20 91 102)" fill="#09090b"/>
+  <ellipse cx="109" cy="102" rx="6" ry="10" transform="rotate(20 109 102)" fill="#09090b"/>
+  <!-- Lettering -->
+  <text x="100" y="68" text-anchor="middle" fill="#4ade80" font-family="'Space Mono', monospace" font-weight="bold" font-size="10">420 TIME</text>
+  <text x="100" y="148" text-anchor="middle" fill="#4ade80" font-family="'Space Mono', monospace" font-weight="bold" font-size="9">OUT OF SPACE</text>
+</svg>
